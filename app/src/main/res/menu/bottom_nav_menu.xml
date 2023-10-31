@@ -2,22 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/generator"
-        android:icon="@drawable/ic_home"
+        android:icon="@drawable/ic_generator"
         android:title="@string/menu_generator" />
 
     <item
         android:id="@+id/decorator"
-        android:icon="@drawable/ic_search"
+        android:icon="@drawable/ic_decorator"
         android:title="@string/menu_decorator" />
-
-    <item
-        android:id="@+id/empty"
-        android:title="" />
-
-    <item
-        android:id="@+id/favourite"
-        android:icon="@drawable/ic_library"
-        android:title="@string/menu_favourite" />
 
     <item
         android:id="@+id/setting"

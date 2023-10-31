@@ -8,7 +8,7 @@ class Constants {
         const val VIEWED : Int = 1
         const val NOT_VIEWED : Int = 1
 
-        const val ADS_INTERSTITIAL = "ca-app-pub-1026571410838165/3015517967"
+        const val ADS_INTERSTITIAL = "ca-app-pub-4328910344309556/7073822731"
 
         var COUNT_INTERSTITIAL = 0
         var REQUEST_INTERSTITIAL = 3

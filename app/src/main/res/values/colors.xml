@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#0F9D58</color>
+    <color name="colorPrimary">#aaf542</color>
     <color name="colorPrimaryVariant">#0F9D58</color>
     <color name="colorOnPrimary">#000</color>
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="pink">#ff2346</color>
 
     <color name="colorBgSearch">#e1eaf1</color>
     <color name="colorPrimaryFont">#5f6366</color>

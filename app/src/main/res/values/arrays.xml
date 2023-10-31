@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_generator">
+        <item>Bubble|Ⓟⓡⓔⓥⓘⓔⓦ Ⓣⓔⓧⓣ</item>
+        <item>Small caps|ᴘʀᴇᴠɪᴇᴡ ᴛᴇxᴛ</item>
+        <item>Antrophobia|ρяєνιєω тєχт</item>
+        <item>Currency|₱ⱤɆVłɆ₩ ₮ɆӾ₮</item>
+        <item>Paranormal|prєvíєw tєхt</item>
+        <item>Magic|ᏢᏒᎬᏉᎥᎬᎳ ᏆᎬxᏆ</item>
+        <item>Special|ᑭᖇEᐯIEᗯ TE᙭T</item>
+        <item>Sorcerer|քʀɛʋɨɛա ȶɛӼȶ</item>
+        <item>Knight|ṖṙḕṼḭḕẇ ṮḕẌṮ</item>
+        <item>Thin|Ｐｒｅｖｉｅｗ Ｔｅｘｔ</item>
+        <item>Tiny|Pʀᴇᴠɪᴇᴡ Tᴇxᴛ</item>
+        <item>Upside down|dɹǝʌıǝʍ ʇǝxʇ</item>
+        <item>Dirty|Ṗŕệṿïệẅ Tệẍẗ</item>
+        <item>Strikethrough|P̶r̶e̶v̶i̶e̶w̶ ̶T̶e̶x̶t̶</item>
+        <item>Tilde strikethrough|P̴r̴e̴v̴i̴e̴w̴ ̴T̴e̴x̴t̴</item>
+        <item>Slash|P̷r̷e̷v̷i̷e̷w̷ ̷T̷e̷x̷t̷</item>
+        <item>Underline|P̲r̲e̲v̲i̲e̲w̲ ̲T̲e̲x̲t̲</item>
+        <item>Double underline|P̳r̳e̳v̳i̳e̳w̳ ̳T̳e̳x̳t̳</item>
+        <item>Boxed|[̲̅P̲̅][̲̅r̲̅][̲̅e̲̅][̲̅v̲̅][̲̅i̲̅][̲̅e̲̅][̲̅w̲̅] [̲̅T̲̅][̲̅e̲̅][̲̅x̲̅][̲̅t̲̅]</item>
+        <item>Stinky|P̾r̾e̾v̾i̾e̾w̾ T̾e̾x̾t̾</item>
+        <item>Bridge above|P͆r͆e͆v͆i͆e͆w͆ T͆e͆x͆t͆</item>
+        <item>Bridge bellow|P̺r̺e̺v̺i̺e̺w̺ T̺e̺x̺t̺</item>
+        <item>Asterisk bellow|P͙r͙e͙v͙i͙e͙w͙ T͙e͙x͙t͙</item>
+        <item>Plus sign bellow|P̟r̟e̟v̟i̟e̟w̟ T̟e̟x̟t̟</item>
+        <item>x above bellow|P͓̽r͓̽e͓̽v͓̽i͓̽e͓̽w͓̽ T͓̽e͓̽x͓̽t͓̽</item>
+        <item>Arrow bellow|P͓̽r͓̽e͓̽v͓̽i͓̽e͓̽w͓̽ T͓̽e͓̽x͓̽t͓̽</item>
+        <item>Love|P♥r♥e♥v♥i♥e♥w♥ T♥e♥x♥t♥</item>
+        <item>Black bracket|【P】【r】【e】【v】【i】【e】【w】 【T】【e】【x】【t】</item>
+        <item>White bracket|『P』『r』『e』『v』『i』『e』『w』 『T』『e』『x』『t』</item>
+        <item>Fancy style 1|ρяεvιεω тεxт</item>
+        <item>Fancy style 2|卩尺乇ᐯ丨乇山 ㄒ乇乂ㄒ</item>
+        <item>Fancy style 3|РŔĔVĨĔŴ ŤĔЖŤ</item>
+        <item>Fancy style 4|dɹǝʌ!ǝʍ ʇǝxʇ</item>
+        <item>Fancy style 5|ƤŘ€VƗ€Ŵ Ŧ€ЖŦ</item>
+        <item>Fancy style 6|ρ૨εѵเεω ƭεאƭ</item>
+        <item>Fancy style 7|prevιew тeхт</item>
+        <item>Fancy style 8|ⓅⓇⒺⓋⒾⒺⓌ ⓉⒺⓍⓉ</item>
+        <item>Fancy style 9|℘ཞɛ۷ıɛῳ ɬɛҳɬ</item>
+        <item>Fancy style 10|ᖘꋪꍟᐯꀤꍟꅏ ꓄ꍟꊼ꓄</item>
+        <item>Fancy style 11|prєvíєw tєхt</item>
+        <item>Fancy style 12|ρЯƎϑîƎᏔ ✞Ǝ✘✞</item>
+        <item>Fancy style 13|PЯΞVIΞЩ ΓΞЖΓ</item>
+        <item>Fancy style 14|քʀɛʋɨɛա ᏆɛxᏆ</item>
+        <item>Fancy style 15|Թɾҽѵíҽա Եҽ×Ե</item>
+        <item>Fancy style 16|ᴾᴿᴱᵛᴵᴱᵂ ᵀᴱˣᵀ</item>
+        <item>Fancy style 17|ᎵᏒꂅᏉᎥꂅᎳ ϮꂅꊼϮ</item>
+        <item>Fancy style 18|ᕿᖇᙍᐻᓿᙍᙎ ᖶᙍ᙭ᖶ</item>
+        <item>Fancy style 19|þ尺ƐƔɪƐƜ ŤƐχŤ</item>
+        <item>Fancy style 20|ƤƦЄƔƖЄƜ ƬЄҲƬ</item>
+        <item>Fancy style 21|ƿՐ૯౮ɿ૯ω ੮૯૪੮</item>
+        <item>Fancy style 22|ρՐȝעɿȝա ԵȝՃԵ</item>
+        <item>Fancy style 23|ｱ尺乇√ﾉ乇W ｲ乇ﾒｲ</item>
+        <item>Fancy style 24|prε∀ïεω †εx†</item>
+        <item>Fancy style 25|ᎮᏒᏋᏉᎥᏋᏇ ᏖᏋጀᏖ</item>
+        <item>Fancy style 26|ꉣꋪꍟꃴꀤꍟꅏ ꓄ꍟꊼ꓄</item>
+        <item>Fancy style 27|ꉣꋪꏹꃴꀤꏹꅐ ꋖꏹꋚꋖ</item>
+        <item>Fancy style 28|ꉣꋪꑾ꒦꒐ꑾꅏ ꓅ꑾꋋ꓅</item>
+        <item>Fancy style 29|ꉣꋪꏂ꒦꒐ꏂꅐ ꓄ꏂꉼ꓄</item>
+        <item>Fancy style 30|prēงiēຟ tēxt</item>
+        <item>Fancy style 31|ᑭᖇᗴᐯᎥᗴᗯ 丅ᗴ᙭丅</item>
+        <item>Fancy style 32|ᕵᖇᘿᐺᓰᘿᘺ ᖶᘿ᙭ᖶ</item>
+        <item>Fancy style 33|קȑ£√ȋ£Ψ ț£×ț</item>
+        <item>Fancy style 34|ρя€˅ɨ€ώ ţ€жţ</item>
+        <item>Fancy style 35|ρΓპὗἶპw ནპჯན</item>
+        <item>Fancy style 36|ƤŘẸϋĮẸŴ ŤẸЖŤ</item>
+        <item>Fancy style 37|የዪቿሀጎቿሠ ፕቿሸፕ</item>
+        <item>Fancy style 38|ꉣ꒓ꍟꏝꂑꍟꅐ ꓅ꍟꇓ꓅</item>
+        <item>Fancy style 39|ꉣꋪꏂ꒦꒐ꏂꅐ ꓄ꏂꉧ꓄</item>
+        <item>Fancy style 40|ꉣꌅꑀ꒦꒐ꑀꅐ ꋖꑀꉤꋖ</item>
+        <item>Fancy style 41|ꉣꌅꈼꀰꂑꈼꅏ ꋖꈼꇒꋖ</item>
+    </string-array>
+
+    <string-array name="font_decorator">
+        <item>Style Decorator 0|★·.·´¯`·.·★ preview ★·.·´¯`·.·★</item>
+        <item>Style Decorator 1|▁ ▂ ▄ ▅ ▆ ▇ █ preview █ ▇ ▆ ▅ ▄ ▂ ▁</item>
+        <item>Style Decorator 2|°°°·.°·..·°¯°·._.· preview ·._.·°¯°·.·° .·°°°</item>
+        <item>Style Decorator 3|¸,ø¤º°`°º¤ø,¸¸,ø¤º° preview °º¤ø,¸¸,ø¤º°`°º¤ø,¸</item>
+        <item>Style Decorator 4|ıllıllı preview ıllıllı</item>
+        <item>Style Decorator 5|•?((¯°·._.• preview •._.·°¯))؟•</item>
+        <item>Style Decorator 6|▌│█║▌║▌║ preview ║▌║▌║█│▌</item>
+        <item>Style Decorator 7|×º°”˜`”°º× preview ×º°”˜`”°º×</item>
+        <item>Style Decorator 8|•]••´º´•» preview «•´º´••[•</item>
+        <item>Style Decorator 9|*•.¸♡ preview ♡¸.•*</item>
+        <item>Style Decorator 10|╰☆☆ preview ☆☆╮</item>
+        <item>Style Decorator 11|.•°¤*(¯`★´¯)*¤° preview °¤*(¯´★`¯)*¤°•.</item>
+        <item>Style Decorator 12|(¯´•._.• preview •._.•´¯)</item>
+        <item>Style Decorator 13|¸„.-•~¹°”ˆ˜¨ preview ¨˜ˆ”°¹~•-.„¸</item>
+        <item>Style Decorator 14|░▒▓█ preview █▓▒░</item>
+        <item>Style Decorator 15|░▒▓█►─═ preview ═─◄█▓▒░</item>
+        <item>Style Decorator 16|★彡 preview 彡★</item>
+        <item>Style Decorator 17|•´¯`•. preview .•´¯`•</item>
+        <item>Style Decorator 18|§.•´¨°÷•..× preview ×,.•´¨°÷•..§</item>
+        <item>Style Decorator 19|•°¯`•• preview ••´¯°•</item>
+        <item>Style Decorator 20|(¯`*•.¸,¤°´✿.｡.:* preview *.:｡.✿`°¤,¸.•*´¯)</item>
+        <item>Style Decorator 21|*!¤*~``~*¤!@ preview @!¤*~``~*¤!*</item>
+        <item>Style Decorator 22|•._.••´¯``•.¸¸.•` preview `•.¸¸.•´´¯`••._.•</item>
+        <item>Style Decorator 23|¸„.-•~¹°”ˆ˜¨ preview ¨˜ˆ”°¹~•-.„¸</item>
+        <item>Style Decorator 24|(¯´•._.• preview •._.•´¯)</item>
+        <item>Style Decorator 25|••¤(`×[¤ preview ¤]×´)¤••</item>
+        <item>Style Decorator 26|,.-~*¨¯¨*·~-.¸-(_ preview _)-,.-~*¨¯¨*·~-.¸</item>
+        <item>Style Decorator 27|•´¯`•» preview «•´¯`•</item>
+        <item>Style Decorator 28|.o0×X×0o. preview .o0×X×0o.</item>
+        <item>Style Decorator 29|¤¸¸.•´¯`•¸¸.•.. preview ..•.¸¸•´¯`•.¸¸¤</item>
+        <item>Style Decorator 30|—(••÷[ preview ]÷••)—</item>
+        <item>Style Decorator 31|¸,ø¤º°`°º¤ø,¸ preview ¸,ø¤º°`°º¤ø,¸</item>
+        <item>Style Decorator 32|`•.¸¸.•´´¯`••._.• preview •._.••`¯´´•.¸¸.•`</item>
+        <item>Style Decorator 33|,-* ^ ~*-.,_,.-*~ preview ~*-.,_,.-*~ ^ *-,</item>
+        <item>Style Decorator 34|`•.,¸¸,.•´¯ preview ¯`•.,¸¸,.•´</item>
+        <item>Style Decorator 35|↤↤↤↤↤ preview ↦↦↦↦↦</item>
+        <item>Style Decorator 36|➶➶➶➶➶ preview ➷➷➷➷➷</item>
+        <item>Style Decorator 37|↫↫↫↫↫ preview ↬↬↬↬↬</item>
+        <item>Style Decorator 38|·.¸¸.·♩♪♫ preview ♫♪♩·.¸¸.·</item>
+        <item>Style Decorator 39|【｡_｡】 preview 【｡_｡】</item>
+        <item>Style Decorator 40|]I{•------» preview «------•}I[</item>
+        <item>Style Decorator 41|▀▄▀▄▀▄ preview ▄▀▄▀▄▀</item>
+        <item>Style Decorator 42|(-_-) preview (-_-)</item>
+        <item>Style Decorator 43|•´¯`•. preview .•´¯`•</item>
+        <item>Style Decorator 44|-漫~*¨¯¨*·舞~ preview ~舞*¨¯¨*·~漫-</item>
+        <item>Style Decorator 45|๑۞๑,¸¸,ø¤º°`°๑۩ preview ๑۩ ,¸¸,ø¤º°`°๑۞๑</item>
+        <item>Style Decorator 46|.•°¤*(¯`★´¯)*¤° preview °¤*(¯´★`¯)*¤°•.</item>
+        <item>Style Decorator 47|••.•´¯`•.•• preview ••.•´¯`•.••</item>
+        <item>Style Decorator 48|¤¸¸.•´¯`•¸¸.•.. preview ..•.¸¸•´¯`•.¸¸¤</item>
+        <item>Style Decorator 49|◦•●◉✿ preview ✿◉●•◦</item>
+        <item>Style Decorator 50|╚»★«╝ preview ╚»★«╝</item>
+        <item>Style Decorator 51|-·=»‡«=·- preview -·=»‡«=·-</item>
+        <item>Style Decorator 52|∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ preview ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙</item>
+        <item>Style Decorator 53|¸¸♬·¯·♩¸¸♪·¯·♫¸¸ preview ¸¸♫·¯·♪¸¸♩·¯·♬¸¸</item>
+        <item>Style Decorator 54|ஜ۩۞۩ஜ preview ஜ۩۞۩ஜ</item>
+        <item>Style Decorator 55|¤ (¯´☆✭.¸_)¤ preview ¤(_¸.✭☆´¯) ¤</item>
+        <item>Style Decorator 56|(¯`·.¸¸.·´¯`·.¸¸.- preview -.¸¸.·´¯`·.¸¸.·´¯)</item>
+        <item>Style Decorator 57|✿.｡.:* ☆:**:. preview .:**:.☆*.:｡.✿</item>
+        <item>Style Decorator 58|.•♫•♬• preview •♬•♫•.</item>
+        <item>Style Decorator 59|ღ(¯`◕‿◕´¯) ♫ ♪ ♫ preview ♫ ♪ ♫ (¯`◕‿◕´¯)ღ</item>
+        <item>Style Decorator 60|«-(¯`v´¯)-« preview »-(¯`v´¯)-»</item>
+    </string-array>
+
+    <string-array name="style_first">
+        <item>ⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ⓪①②③④⑤⑥⑦⑧⑨</item>
+        <item>ᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ0123456789</item>
+        <item>αв¢∂єfgнιנкℓмиσρqяѕтυνωχуzαв¢∂єfgнιנкℓмиσρqяѕтυνωχуz0123456789</item>
+        <item>₳฿₵ĐɆ₣₲ⱧłJ₭Ⱡ₥₦Ø₱QⱤ₴₮ɄV₩ӾɎⱫ₳฿₵ĐɆ₣₲ⱧłJ₭Ⱡ₥₦Ø₱QⱤ₴₮ɄV₩ӾɎⱫ0123456789</item>
+        <item>αвcdєfghíjklmnσpqrstuvwхчzαвcdєfghíjklmnσpqrstuvwхчz0123456789</item>
+        <item>ᎪbᏟᎠᎬfᎶhᎥjᏦᏞmᏁᎾᏢqᏒsᏆuᏉᎳxᎽᏃᎪbᏟᎠᎬfᎶhᎥjᏦᏞmᏁᎾᏢqᏒsᏆuᏉᎳxᎽᏃ0123456789</item>
+        <item>ᗩᗷᑕᗪEᖴGᕼIᒍKᒪᗰᑎOᑭᑫᖇᔕTᑌᐯᗯ᙭YᘔᗩᗷᑕᗪEᖴGᕼIᒍKᒪᗰᑎOᑭᑫᖇᔕTᑌᐯᗯ᙭Yᘔ0123456789</item>
+        <item>ǟɮƈɖɛʄɢɦɨʝӄʟʍռօքզʀֆȶʊʋաӼʏʐǟɮƈɖɛʄɢɦɨʝӄʟʍռօքզʀֆȶʊʋաӼʏʐ0123456789</item>
+        <item>ḀḃḉḊḕḟḠḧḭjḲḶṁṆṏṖqṙṠṮṳṼẇẌẏẒḀḂḈḊḔḞḠḦḬJḲḶṀṆṎṖQṘṠṮṲṼẆẌẎẒ0123456789</item>
+        <item>ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ０１２３４５６７８９</item>
+        <item>ᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘϙʀꜱᴛᴜᴠᴡxʏᴢABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</item>
+        <item>ɐqɔpǝɟƃɥıɾʞlɯuodbɹsʇnʌʍxʎzɐqɔpǝɟƃɥıɾʞlɯuodbɹsʇnʌʍxʎz0123456789</item>
+        <item>äḅċďệḟġḧïjḳŀṃńöṗqŕṩẗüṿẅẍÿẓÄḄĊĎỆḞĠḦÏJḲĿṂŃÖṖQŔṨṮÜṾẄẌŸẒ0123456789</item>
+    </string-array>
+    <string-array name="style_second">
+        <item>αвc∂εғgнιנкℓмησρqяsтυvωxүz</item>
+        <item>卂乃匚ᗪ乇千Ꮆ卄丨ﾌҜㄥ爪几ㄖ卩Ɋ尺丂ㄒㄩᐯ山乂ㄚ乙</item>
+        <item>ĂβČĎĔŦĞĤĨĴĶĹМŃŐРQŔŚŤÚVŴЖŶŹ</item>
+        <item>ɐqɔpǝɟƃɥ!ɾʞןɯuodbɹsʇnʌʍxʎz</item>
+        <item>ΔβĆĐ€₣ǤĦƗĴҜŁΜŇØƤΩŘŞŦỮVŴЖ¥Ž</item>
+        <item>αɓ૮∂εƒɠɦเʝҡℓɱɳσρφ૨รƭµѵωאყƶ</item>
+        <item>aвcdeғgнιjĸlмnopqrѕтυvwхyz</item>
+        <item>ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ</item>
+        <item>ąცƈɖɛʄɠɧıʝƙƖɱŋơ℘զཞʂɬų۷ῳҳყʑ</item>
+        <item>ꍏꌃꉓꀸꍟꎇꁅꃅꀤꀭꀘ꒒ꎭꈤꂦᖘꆰꋪꌗ꓄ꀎᐯꅏꊼꌩꁴ</item>
+        <item>αвcdєfghíjklmnσpqrѕtuvwхчz</item>
+        <item>ДᏰℂ∂ƎƒᎶℍîʝƘℓℳИøρǪЯƧ✞υϑᏔ✘УՀ</item>
+        <item>ДБCDΞFGHIJҜLMИФPǪЯSΓЦVЩЖУZ</item>
+        <item>ǟɮƈɖɛʄɢɦɨʝᏦʟʍռօքզʀֆᏆʊʋաxʏʐ</item>
+        <item>ɑҍϲժҽƒցհíյƘӀʍղօԹզɾՏԵմѵա×վՀ</item>
+        <item>ᴬᴮᶜᴰᴱᶠᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾᵟᴿˢᵀᵁᵛᵂˣᵞᶻ</item>
+        <item>ᕱც꒝Ꭰꂅꊰg♅ᎥϳКլოภԾᎵգᏒᏕϮuᏉᎳꊼᎩᏃ</item>
+        <item>ᗅᙘᑤᗫᙍᖴᘜᕼᓿᒙᖽᐸᒪᙢᘉᓎᕿᕴᖇSᖶᑗᐻᙎ᙭ᖻᙣ</item>
+        <item>ΛϦㄈÐƐFƓнɪﾌҚŁ௱ЛØþҨ尺らŤЦƔƜχϤẔ</item>
+        <item>ƛƁƇƊЄƑƓӇƖʆƘԼMƝƠƤƢƦƧƬƲƔƜҲƳȤ</item>
+        <item>คც८ძ૯Բ૭ҺɿʆқՆɱՈ૦ƿҩՐς੮υ౮ω૪עઽ</item>
+        <item>ԹՅՇԺȝԲԳɧɿʝƙʅʍՌԾρφՐՏԵՄעաՃՎՀ</item>
+        <item>ﾑ乃ᄃり乇ｷムんﾉﾌズﾚﾶ刀のｱゐ尺丂ｲひ√Wﾒﾘ乙</item>
+        <item>αßςdεƒghïյκﾚmη⊕pΩrš†u∀ωxψz</item>
+        <item>ᏗᏰፈᎴᏋᎦᎶᏂᎥᏠᏦᏝᎷᏁᎧᎮᎤᏒᏕᏖᏬᏉᏇጀᎩፚ</item>
+        <item>ꍏꌃꉓꀸꍟꎇꁅꃅꀤꀭꀘ꒒ꂵꈤꂦꉣꆰꋪꌗ꓄ꀎꃴꅏꊼꌩꁴ</item>
+        <item>ꁲꃃꇃꂡꏹꄙꁍꀍꀤꀭꈵ꒒ꂵꋊꁏꉣꆰꋪꌚꋖꌈꃴꅐꋚꂖꁴ</item>
+        <item>ꋫꃲꉓꃸꑾꄘꁅꃄ꒐꒑ꀗ꒒ꂵꁹꄱꉣꋟꋪꇘ꓅ꌇ꒦ꅏꋋꌥ꒗</item>
+        <item>ꋬꍗꏳꂟꏂꄟꍌꃬ꒐꒻ꀘ꒒ꂵꂚꉻꉣꋠꋪꑄ꓄ꀎ꒦ꅐꉼꐞꑓ</item>
+        <item>ค๖¢໓ēfງhiวkl๓ຖ໐p๑rŞtนงຟxฯຊ</item>
+        <item>ᗩᗷᑕᗪᗴᖴǤᕼᎥᒎᛕᒪᗰᑎᗝᑭɊᖇᔕ丅ᑌᐯᗯ᙭Ƴ乙</item>
+        <item>ᗩᗷᑢᕲᘿᖴᘜᕼᓰᒚᖽᐸᒪᘻᘉᓍᕵᕴᖇSᖶᑘᐺᘺ᙭ᖻᗱ</item>
+        <item>åβçď£ƒğȟȋjķȽɱñ¤קǭȑ§țɥ√Ψ×ÿž</item>
+        <item>ąβȼď€ƒǥhɨjЌℓʍɲ๏ρǭя§ţµ˅ώж¥ƶ</item>
+        <item>მჩეძპfცhἶქκlოῆõρგΓჰནυὗwჯყɀ</item>
+        <item>ÃβČĎẸƑĞĤĮĴЌĹϻŇỖƤǪŘŜŤǗϋŴЖЎŻ</item>
+        <item>ልጌርዕቿቻኗዘጎጋጕረጠክዐየዒዪነፕሁሀሠሸሃጊ</item>
+        <item>ꋫꃃꏸꁕꍟꄘꁍꑛꂑꀭꀗ꒒ꁒꁹꆂꉣꁸ꒓ꌚ꓅ꐇꏝꅐꇓꐟꁴ</item>
+        <item>ꋬꃳꉔ꒯ꏂꊰꍌꁝ꒐꒻ꀘ꒒ꂵꋊꄲꉣꆰꋪꇙ꓄꒤꒦ꅐꉧꌦꁴ</item>
+        <item>ꁲꃳꏳꀷꑀꊯꁅꁝ꒐꒑ꈵ꒒ꂵꃔꊿꉣꋠꌅꈜꋖꌈ꒦ꅐꉤꐔꑒ</item>
+        <item>ꁲꋰꀯꂠꈼꄞꁅꍩꂑ꒻ꀗ꒒ꂵꋊꂦꉣꁷꌅꌚꋖꐇꀰꅏꇒꐞꁴ</item>
+    </string-array>
+</resources>

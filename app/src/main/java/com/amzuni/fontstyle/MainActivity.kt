@@ -5,12 +5,10 @@ import android.os.Bundle
 import androidx.fragment.app.Fragment
 import com.amzuni.fontstyle.base.BaseActivity
 import com.amzuni.fontstyle.ui.fragment.DecoratorFragment
-import com.amzuni.fontstyle.ui.fragment.FavouriteFragment
 import com.amzuni.fontstyle.ui.fragment.GeneratorFragment
 import com.amzuni.fontstyle.ui.fragment.SettingFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import java.util.*
 
 class MainActivity : BaseActivity() {
     private lateinit var bottomNavigationView : BottomNavigationView
@@ -26,27 +24,19 @@ class MainActivity : BaseActivity() {
     override fun initGUI() {
         bottomNavigationView = findViewById(R.id.bottomNavigationView)
         bottomNavigationView.background = null
-        bottomNavigationView.menu.getItem(2).isEnabled = false
 
         supportFragmentManager.beginTransaction().replace(R.id.fragment_container, GeneratorFragment()).commit()
         val generatorFragment = GeneratorFragment()
         val decoratorFragment = DecoratorFragment()
-        val favouriteFragment = FavouriteFragment()
         val settingFragment = SettingFragment()
 
         bottomNavigationView.setOnItemSelectedListener {
             when(it.itemId){
                 R.id.generator -> setCurrentFragment(generatorFragment)
                 R.id.decorator -> setCurrentFragment(decoratorFragment)
-                R.id.favourite -> setCurrentFragment(favouriteFragment)
                 R.id.setting -> setCurrentFragment(settingFragment)
             }
             true
-        }
-
-        fabCreate = findViewById(R.id.fab_create)
-        fabCreate.setOnClickListener {
-
         }
     }
 
