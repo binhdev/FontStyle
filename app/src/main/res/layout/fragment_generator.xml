@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-    <TextView
-        android:id="@+id/tv.no.items"
-        android:text="@string/text_no_items"
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/sv.style"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:gravity="center"
-        style="@style/category_title"
-        android:visibility="gone"/>
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_search"
+        android:textCursorDrawable="@null"
+        app:iconifiedByDefault="false"
+        app:queryHint="@string/text_search_hint"
+        app:queryBackground="@null"/>
 
     <com.google.android.gms.ads.AdView
         xmlns:ads="http://schemas.android.com/apk/res-auto"
@@ -24,7 +25,7 @@
         android:visibility="gone"/>
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv.quote"
+        android:id="@+id/rv.style"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"/>
