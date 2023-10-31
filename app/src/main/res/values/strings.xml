@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FontStyle</string>
+    <string name="ads_banner">ca-app-pub-1026571410838165/1538784763</string>
+
+    <string name="menu_generator">Generator</string>
+    <string name="menu_decorator">Decorator</string>
+    <string name="menu_favourite">Favourite</string>
+    <string name="menu_setting">Setting</string>
+
+    <string name="text_notifications">Notifications</string>
+    <string name="text_enable_disable">Enable/Disable</string>
+    <string name="text_select_category">Select Categorties:</string>
+    <string name="text_daily_timings">Daily Timings:</string>
+
+    <string name="text_add_time">Add Timing</string>
+    <string name="text_widgets">Widgets</string>
+    <string name="text_can_not_empty">Can not empty content</string>
+
+    <string name="text_no_items">No Items</string>
+</resources>

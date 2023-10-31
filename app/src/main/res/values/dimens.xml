@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="p8">8dp</dimen>
+    <dimen name="p2">2dp</dimen>
+    <dimen name="p10">10dp</dimen>
+    <dimen name="p15">15dp</dimen>
+    <dimen name="p20">20dp</dimen>
+
+    <dimen name="m2">2dp</dimen>
+    <dimen name="m8">8dp</dimen>
+    <dimen name="m5">5dp</dimen>
+    <dimen name="m10">10dp</dimen>
+    <dimen name="m15">15dp</dimen>
+
+    <dimen name="r15">15dp</dimen>
+    <dimen name="r25">25dp</dimen>
+
+    <dimen name="quote_height">250dp</dimen>
+</resources>
